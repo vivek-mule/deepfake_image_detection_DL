@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks for training, evaluating, and inferri
 ---
 
 ### 🔗 Important Links
-- **Research Paper**: https://drive.google.com/file/d/1on_rVulJUYvPSynlaRJvg6-wOMor4lhN/view?usp=sharing
+- **Research Paper**: https://drive.google.com/file/d/1rflN_OJ0FHNgFFXxcS1UI5dlZMty0nvo/view?usp=sharing
 - **Report**: https://docs.google.com/document/d/15tSKZ2_JNhHdEaploiR2i1_Huz7T9XoDMGuAnlxSv-o/edit?usp=sharing
 - **Models & Scripts**: https://drive.google.com/drive/folders/1wN_Tf4OQJ_8rhi6GGYfpYYaCHpewjp9K?usp=sharing 📂
 - **Datasets**:
