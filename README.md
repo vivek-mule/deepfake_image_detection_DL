@@ -24,7 +24,3 @@ This repository contains Jupyter notebooks for training, evaluating, and inferri
 ```
 
 ---
-
-### 🤝 Contributions & Contact
-Contributions are welcome!
-
